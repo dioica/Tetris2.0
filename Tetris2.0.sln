@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tetris2.0", "Tetris2.0\Tetris2.0.vcxproj", "{5E8723BA-5F41-4EC0-9E05-0B7F05AB68A0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "googleTests", "googleTests\googleTests.vcxproj", "{115E47E6-F9DD-4663-96A0-69F2A3211624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5E8723BA-5F41-4EC0-9E05-0B7F05AB68A0}.Release|x64.Build.0 = Release|x64
 		{5E8723BA-5F41-4EC0-9E05-0B7F05AB68A0}.Release|x86.ActiveCfg = Release|Win32
 		{5E8723BA-5F41-4EC0-9E05-0B7F05AB68A0}.Release|x86.Build.0 = Release|Win32
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Debug|x64.ActiveCfg = Debug|x64
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Debug|x64.Build.0 = Debug|x64
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Debug|x86.ActiveCfg = Debug|Win32
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Debug|x86.Build.0 = Debug|Win32
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Release|x64.ActiveCfg = Release|x64
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Release|x64.Build.0 = Release|x64
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Release|x86.ActiveCfg = Release|Win32
+		{115E47E6-F9DD-4663-96A0-69F2A3211624}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
